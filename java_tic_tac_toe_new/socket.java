@@ -29,7 +29,7 @@ class socket implements IOCallback{
 		this.board = board;
 		SocketIO.setDefaultSSLSocketFactory(SSLContext.getDefault());
 		sockets = new SocketIO();
-        sockets.connect("https://shrouded-falls-99718.herokuapp.com/",this);//https://shrouded-falls-99718.herokuapp.com/  http://localhost:5001/
+        sockets.connect("http://localhost:5001/",this);//https://shrouded-falls-99718.herokuapp.com/  http://localhost:5001/
 		sockets.emit("NewGuess",new JSONObject().put("data", "Rick"));
 	}
 	public void sendRequest(String jsons){
