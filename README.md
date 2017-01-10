@@ -1,20 +1,20 @@
 
 Tic Tac Toe
 
-Cloud  : Heroku
-Server : Nodejs
-Client : Java
-Java Kits : Gottox SocketIo, Gson, JSONObject...
+##Cloud  : Heroku
+##Server : Nodejs
+##Client : Java
+##Java Kits : Gottox SocketIo, Gson, JSONObject...
 
-Result In java_tic_tac_toe_new/jars/ticc.jar
-Notice: gson.jar and socketio.jar Must In The Same Dictionary with ticc.jar
+##Result In java_tic_tac_toe_new/jars/ticc.jar
+##Notice: gson.jar and socketio.jar Must In The Same Dictionary with ticc.jar
 
-java source code in java_tic_tac_toe_new/(Main.java,board.java,config.java,MenuBar.java,socke.java)
-nodejs server code in nodejs/controller/socket.io_control.js
+##java source code in java_tic_tac_toe_new/(Main.java,board.java,config.java,MenuBar.java,socke.java)
+##nodejs server code in nodejs/controller/socket.io_control.js
 
-This is Not a good design structure...
-Because Logics write on client side
-A few connection is tested...but not many connection test
+###This is Not a good design structure...
+###Because Logics write on client side
+###A few connection is tested...but not many connection test
 
 #########################
 
