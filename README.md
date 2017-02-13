@@ -24,6 +24,7 @@ $ cd path/to/nodejs
 $ node index.js
 ```
 you must see a info write  => `IO WebSocket On 5001`
+
 2. open another cmd
 ```sh
 $ cd path/to/java_tic_tac_toe_new/
