@@ -9,7 +9,7 @@
 ## Result Jar Path 
 
     => java_tic_tac_toe_new/jars/ticc.jar
-    Notice: gson.jar and socketio.jar Must In The Same Dictionary with ticc.jar
+    Notice: gson.jar and socketio.jar Must In The Same Directory with ticc.jar
 
 ## Java source code Path
     => java_tic_tac_toe_new/*.java
