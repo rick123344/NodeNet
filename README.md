@@ -18,14 +18,14 @@
 
 ### You can also test in your localhost (two cmd)
 
-1. open one cmd
+*open one cmd
 ```sh
 $ cd path/to/nodejs
 $ node index.js
 ```
 you must see a info write  => `IO WebSocket On 5001`
 
-2. open another cmd
+*open another cmd
 ```sh
 $ cd path/to/java_tic_tac_toe_new/
 $ java Tic_Tac_Toe.Main 
