@@ -21,6 +21,7 @@
 *open one cmd
 ```sh
 $ cd path/to/nodejs
+$ npm install
 $ node index.js
 ```
 you must see a info write  => `IO WebSocket On 5001`
